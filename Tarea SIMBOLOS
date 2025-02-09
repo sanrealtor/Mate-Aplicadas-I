@@ -1,0 +1,84 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyN6D0l/DOgf6fazRfY6Q0vw",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/sanrealtor/Mate-Aplicadas-I/blob/main/Tarea%20SIMBOLOS\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "YCRLmEgXT4Tp"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "1. $$ a^2 + b^2 = c^2 $$\n",
+        "\n",
+        "2. $$ \\log{xy} = \\log{x} + \\log{y} $$\n",
+        "\n",
+        "3. $$ \\frac{df}{dt} = \\lim_{h \\to 0} \\frac{f(t+h) - f(t)}{h} $$\n",
+        "\n",
+        "4. $$ F = G \\frac{m_1 m_2}{r^2} $$\n",
+        "\n",
+        "5. $$ i^2 = -1 $$\n",
+        "\n",
+        "6. $$ V - E + F = 2 $$\n",
+        "\n",
+        "7. $$ \\Phi(x) = \\frac{1}{\\sqrt{2\\pi}\\sigma} e^{\\frac{-(x - \\mu)^2}{2\\sigma^2}} $$\n",
+        "\n",
+        "8. $$ \\frac{\\partial^2 u}{\\partial t^2} = c^2 \\frac{\\partial^2 u}{\\partial x^2} $$\n",
+        "\n",
+        "9. $$ F(\\omega) = \\int_{-\\infty}^{\\infty} f(x) e^{-i\\omega x} dx $$\n",
+        "\n",
+        "10. $$ \\rho \\left( \\frac{\\partial v}{\\partial t} + v \\cdot \\nabla v \\right) = - \\nabla p + \\mu \\nabla^2 v + f $$\n",
+        "\n",
+        "11. $$ \\nabla \\cdot E = 0 $$\n",
+        "$$ \\nabla \\times E = - \\frac{\\partial B}{\\partial t} $$\n",
+        "$$ \\nabla \\cdot B = \\frac{1}{c^2} \\frac{\\partial E}{\\partial t} $$\n",
+        "$$ \\nabla \\times H = \\frac{\\partial D}{\\partial t} $$\n",
+        "\n",
+        "12. $$ dS \\geq 0 $$\n",
+        "\n",
+        "13. $$ E = mc^2 $$\n",
+        "\n",
+        "14. $$ i \\hbar \\frac{\\partial \\Psi}{\\partial t} = H \\Psi $$\n",
+        "\n",
+        "15. $$ H = - \\sum p(i) \\log p(i) $$\n",
+        "\n",
+        "16. $$ x_{n+1} = kx_n(1 - x_n) $$\n",
+        "\n",
+        "17. $$ \\frac{1}{2} \\sigma^2 S^2 \\frac{\\partial^2 V}{\\partial S^2} + rS \\frac{\\partial V}{\\partial S} + \\frac{\\partial V}{\\partial t} - rV = 0 $$\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "BNL0woveT435"
+      }
+    }
+  ]
+}
